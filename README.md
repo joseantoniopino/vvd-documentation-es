@@ -1,45 +1,42 @@
-# VVD — Manual independiente en español
+# VVD en español — documentación comunitaria
 
-**Edición:** 0.1 — **Revisión de fuentes:** 2026-10-25.
+> **Proyecto independiente y no oficial.** No está afiliado, aprobado ni mantenido por el equipo de [vvd](https://vvd.world/). Documentación original en español basada en fuentes públicas verificables.
 
-Este es un **manual de referencia elaborado a partir de información oficial pública**, escrito en español y orientado a consultas con ChatGPT. No está afiliado a VVD. No es una traducción completa de sus páginas ni una copia del centro de ayuda. Las instrucciones pueden diferir de la interfaz real.
+**Estado:** en desarrollo · **Auditoría inicial:** 25 de octubre de 2026 · **Idioma:** español.
 
-## Qué se ha revisado
+## Empieza aquí
 
-- Las **4 categorías** de su centro de ayuda y los **35 artículos** que aparecían enlazados en ellas a la fecha de revisión.
-- Registro oficial de cambios, cuya última entrada encontrada es **01/10/2026**.
-- Catálogo público de Maps clásico y estructura de la documentación de desarrollo.
-- Índices técnicos de API, SDK, CLI, MCP, Workshop, apps y wiki; **sin validación de todos los endpoints ni ejemplos**.
+- [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas.
+- [Catálogo de herramientas y cobertura](docs/herramientas/catalogo.md): incluye las herramientas con y sin guía pública.
+- [Inventario de fuentes](fuentes/inventario.md): enlaces oficiales y fechas de las páginas.
+- [Auditoría de evidencias](auditoria/informe-2026-10-25.md): comprobaciones, contradicciones y limitaciones.
+- [Cómo contribuir](CONTRIBUTING.md): procedimiento editorial y requisitos de evidencia.
 
-## Qué NO se ha podido verificar
+## Qué se documenta
 
-- Contenido reservado a usuarios registrados, tutoriales interactivos, cambios aún no publicados y todas las herramientas comunitarias.
-- Que un documento está «actualizado» solo porque su URL se encuentra activa.
-- Pruebas de uso real de cada control (no hay acceso de edición a tu cuenta en esta auditoría).
-- Compilación exhaustiva de cada referencia técnica y sus variantes.
+Mundos, fichas, tipos y propiedades, grafo, mapas, Map Maker, Canvas, medios, árboles, cronologías, Quill, publicación, colaboración, exportación, accesibilidad, herramientas de terceros y plataforma de desarrollo (SDK, CLI, API y MCP). **La profundidad varía**: las funciones con poca documentación oficial se presentan como pendientes, no se completan mediante suposiciones.
 
-## Inicio rápido
+## Cómo interpretar las páginas
 
-1. Lee [Inventario de fuentes](00_fuentes/inventario.md).
-2. Para tu caso, [Maps clásico](01_manual/03_maps_clasico.md) y [Map Maker beta](01_manual/04_map_maker_beta.md).
-3. Para dudas de plan, privacidad o funciones aparentemente contradictorias, [Auditoría](03_auditoria/01_errores_contradicciones_y_desfases.md).
-4. Si vas a construir herramientas, [Modelo SDK](02_desarrollo/01_modelo_sdk_workshop.md) y [API/MCP/CLI](02_desarrollo/02_api_mcp_cli_y_referencias.md).
-5. Consulta [Instrucciones de uso para ChatGPT](04_uso/instrucciones_para_chatgpt.md).
+- **Documentado:** aparece explícitamente en una fuente oficial enlazada.
+- **Anunciado:** figura en las novedades oficiales, pero puede carecer de manual paso a paso.
+- **Inferencia / recomendación:** criterio editorial, no una función confirmada.
+- **Sin verificar / contradictorio:** no hay información suficiente o las fuentes discrepan.
 
-## Estructura
+Cada funcionalidad puede tener versiones independientes. La fecha de revisión de este repositorio **no** implica que todas las funciones hayan sido probadas en una cuenta real ni que sean idénticas en todos los planes.
 
-```text
-00_fuentes/    inventario de 35 artículos + índice técnico
-01_manual/     manual temático para usuarios y directores de juego
-02_desarrollo/ orientación SDK, Workshop, API y MCP
-03_auditoria/  conflictos, novedades y preguntas sin respuesta
-04_uso/        instrucciones para ChatGPT
-```
+## Fuentes prioritarias
 
-### Criterio de fiabilidad
+1. [Centro de ayuda](https://vvd.crisp.help/en/) — descripciones y procedimientos, ocasionalmente antiguos.
+2. [Novedades oficiales](https://vvd.world/whats-new) — cambios posteriores a las guías.
+3. [Catálogo de herramientas](https://vvd.world/t/maps) — versión de cada herramienta, cuando se publica.
+4. [Precios](https://vvd.world/pricing) — información comercial general, no sustituye a tu contrato.
+5. [Portal de desarrolladores](https://docs.beta.vvd.world/) — API, CLI, SDK, apps y herramientas.
 
-**Confirmado:** expresamente descrito por una fuente pública. **Recomendado:** propuesta propia identificada. **Pendiente:** no documentado o contradictorio. Antes de decidir cuestiones sensibles (acceso de jugadores, costes, exportación), confirmar en el producto y documentación más reciente.
+## Aviso de derechos
 
-## Licencias y límites
+El contenido explicativo de este repositorio es una elaboración independiente. Las marcas, interfaces, imágenes y documentación original de vvd pertenecen a sus titulares. Se enlazan las fuentes, **sin reproducir artículos completos ni sus ilustraciones**. Antes de importar contenidos o capturas, comprueba sus permisos. Consulta [condiciones oficiales](https://vvd.world/terms).
 
-Texto explicativo original, con enlaces al contenido oficial. El material de VVD pertenece a sus respectivos autores. No redistribuir capturas, gráficos ni contenido íntegro de sus guías sin los permisos pertinentes.
+**Licencia de este repositorio:** pendiente de selección por la persona que lo mantiene. Estar publicado en GitHub no concede por sí solo una licencia de redistribución.
+
+La primera versión de 20 archivos se conserva en el [historial de Git](https://github.com/joseantoniopino/vvd-documentation-es/commits/main); se ha retirado el manual consolidado duplicado para evitar que compita con los capítulos canónicos.
