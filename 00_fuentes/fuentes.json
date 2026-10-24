@@ -1,0 +1,471 @@
+[
+  {
+    "categoria": "General",
+    "titulo_es": "Visión general",
+    "url": "https://vvd.crisp.help/en/article/vvd-overview-wy5lsa/",
+    "fecha_articulo": "2026-09-01",
+    "revision": "2026-10-25",
+    "resumen": "Mundos, fichas, herramientas, wiki y Quill."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Inteligencia artificial",
+    "url": "https://vvd.crisp.help/en/article/ai-1e261u7/",
+    "fecha_articulo": "2026-09-11",
+    "revision": "2026-10-25",
+    "resumen": "Política de IA, plantillas guiadas y detección de entidades."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Suscripciones y pagos",
+    "url": "https://vvd.crisp.help/en/article/subscriptions-and-payment-methods-1i9x5yg/",
+    "fecha_articulo": "2026-09-08",
+    "revision": "2026-10-25",
+    "resumen": "Planes, legado, cancelación y límites; algunos datos contradictorios."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Privacidad y autoría",
+    "url": "https://vvd.crisp.help/en/article/content-privacy-ownership-1ohe258/",
+    "fecha_articulo": "2026-06-11",
+    "revision": "2026-10-25",
+    "resumen": "Privacidad predeterminada, propiedad del contenido e imágenes ajenas."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Acceso y dispositivos",
+    "url": "https://vvd.crisp.help/en/article/access-m2mlw2/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Web y aplicaciones; parcialmente superado por novedades de septiembre."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Colaboración",
+    "url": "https://vvd.crisp.help/en/article/collaboration-1g9q82f/",
+    "fecha_articulo": "2026-07-15",
+    "revision": "2026-10-25",
+    "resumen": "Invitaciones y roles; cifras de plazas por verificar."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Guardado",
+    "url": "https://vvd.crisp.help/en/article/saving-1ceh8lh/",
+    "fecha_articulo": "2026-07-28",
+    "revision": "2026-10-25",
+    "resumen": "Autoguardado, revisiones y papelera."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Funciones futuras",
+    "url": "https://vvd.crisp.help/en/article/future-features-2m583k/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Hoja de ruta informal; no tomar la lista como situación actual."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Configuración de cuenta",
+    "url": "https://vvd.crisp.help/en/article/account-settings-1fp4wab/",
+    "fecha_articulo": "2026-06-11",
+    "revision": "2026-10-25",
+    "resumen": "Identidad, acceso, idioma y suscripción."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Radio",
+    "url": "https://vvd.crisp.help/en/article/radio-d7sayv/",
+    "fecha_articulo": "2026-07-23",
+    "revision": "2026-10-25",
+    "resumen": "Emisoras ambientales del espacio de trabajo."
+  },
+  {
+    "categoria": "General",
+    "titulo_es": "Comunidad",
+    "url": "https://vvd.crisp.help/en/article/community-1ig1hqb/",
+    "fecha_articulo": "2026-06-11",
+    "revision": "2026-10-25",
+    "resumen": "Canales comunitarios y ayuda externa."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Fichas",
+    "url": "https://vvd.crisp.help/en/article/cards-62i16j/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Crear, clasificar y editar fichas, bloques y alias."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Enlaces y grafo",
+    "url": "https://vvd.crisp.help/en/article/connections-the-graph-eir68m/",
+    "fecha_articulo": "2026-06-01",
+    "revision": "2026-10-25",
+    "resumen": "Enlaces entre fichas y grafo de relaciones."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Propiedades",
+    "url": "https://vvd.crisp.help/en/article/properties-umr3at/",
+    "fecha_articulo": "2026-07-03",
+    "revision": "2026-10-25",
+    "resumen": "Campos textuales y referencias entre fichas."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Biblioteca multimedia",
+    "url": "https://vvd.crisp.help/en/article/media-gallery-w1fuka/",
+    "fecha_articulo": "2026-04-15",
+    "revision": "2026-10-25",
+    "resumen": "Subida y reutilización de imágenes."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Quill: introducción",
+    "url": "https://vvd.crisp.help/en/article/quill-overview-jpl3u0/",
+    "fecha_articulo": "2026-07-13",
+    "revision": "2026-10-25",
+    "resumen": "Historias, capítulos, enlace con el mundo y publicación."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Quill: panel lateral",
+    "url": "https://vvd.crisp.help/en/article/quill-side-panel-kwwch0/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Notas, panel personalizable y apariencia en escritura; en progreso."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Quill: capítulos y borradores",
+    "url": "https://vvd.crisp.help/en/article/chapters-and-drafts-qoqr7j/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Capítulos y borradores, vista conjunta; en progreso."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Campañas",
+    "url": "https://vvd.crisp.help/en/article/campaigns-yuokro/",
+    "fecha_articulo": "2026-04-15",
+    "revision": "2026-10-25",
+    "resumen": "Herramienta antigua de campañas no disponible en la versión corriente."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Catálogo de herramientas",
+    "url": "https://vvd.crisp.help/en/article/tools-ttd107/",
+    "fecha_articulo": "2026-09-01",
+    "revision": "2026-10-25",
+    "resumen": "Explorar, instalar, Workshop y herramientas de terceros."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Árboles de relaciones",
+    "url": "https://vvd.crisp.help/en/article/relation-trees-1v7xebv/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Nodos, vínculos, variantes y personalización."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Maps clásico",
+    "url": "https://vvd.crisp.help/en/article/maps-akxl85/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Imagen base, marcadores, zonas, capas y etiquetas."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Cronologías",
+    "url": "https://vvd.crisp.help/en/article/timelines-1ky9csp/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Calendarios y eventos en cronologías; indicación beta."
+  },
+  {
+    "categoria": "Creación",
+    "titulo_es": "Canvas",
+    "url": "https://vvd.crisp.help/en/article/canvas-13svpxt/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Tableros, imágenes, grupos y dibujo libre."
+  },
+  {
+    "categoria": "Compartir",
+    "titulo_es": "Wiki y compartición",
+    "url": "https://vvd.crisp.help/en/article/wiki-sharing-8dla6g/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Privacidad, publicación, spoilers y permisos."
+  },
+  {
+    "categoria": "Compartir",
+    "titulo_es": "Personalización de wiki",
+    "url": "https://vvd.crisp.help/en/article/wiki-customization-j9wee1/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Temas, tipografías, páginas y organización."
+  },
+  {
+    "categoria": "Compartir",
+    "titulo_es": "Dominios personalizados",
+    "url": "https://vvd.crisp.help/en/article/custom-domains-5w62jl/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Dominio propio para mundos con plan compatible."
+  },
+  {
+    "categoria": "Compartir",
+    "titulo_es": "Diseños de wiki",
+    "url": "https://vvd.crisp.help/en/article/wiki-layouts-1vowkbx/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "Plantillas Default/Traditional: lista antigua."
+  },
+  {
+    "categoria": "Compartir",
+    "titulo_es": "Publicación en Quill",
+    "url": "https://vvd.crisp.help/en/article/quill-publishing-5m51zu/",
+    "fecha_articulo": "2026-07-13",
+    "revision": "2026-10-25",
+    "resumen": "Publicar y exportar libros; en progreso."
+  },
+  {
+    "categoria": "Compartir",
+    "titulo_es": "Estilos de publicación en Quill",
+    "url": "https://vvd.crisp.help/en/article/publish-side-styling-p4vl90/",
+    "fecha_articulo": "2026-07-13",
+    "revision": "2026-10-25",
+    "resumen": "Portada, tipografía y capítulo; en progreso."
+  },
+  {
+    "categoria": "Configuración",
+    "titulo_es": "Información del mundo",
+    "url": "https://vvd.crisp.help/en/article/world-info-gmmftq/",
+    "fecha_articulo": "2026-09-01",
+    "revision": "2026-10-25",
+    "resumen": "Panel de mundo, tipos, medios, temas, archivo."
+  },
+  {
+    "categoria": "Configuración",
+    "titulo_es": "Tipos y plantillas",
+    "url": "https://vvd.crisp.help/en/article/card-types-templates-44at3z/",
+    "fecha_articulo": "2026-09-21",
+    "revision": "2026-10-25",
+    "resumen": "Tipos, subtipos, propiedades y bloques iniciales."
+  },
+  {
+    "categoria": "Configuración",
+    "titulo_es": "Importar y exportar",
+    "url": "https://vvd.crisp.help/en/article/import-export-15oat5e/",
+    "fecha_articulo": "2026-08-20",
+    "revision": "2026-10-25",
+    "resumen": "ZIP, Markdown/JSON y medios; importación beta."
+  },
+  {
+    "categoria": "Configuración",
+    "titulo_es": "Mundos",
+    "url": "https://vvd.crisp.help/en/article/worlds-r5vlq4/",
+    "fecha_articulo": "2026-06-11",
+    "revision": "2026-10-25",
+    "resumen": "Crear y gestionar mundos; cuotas conflictivas."
+  },
+  {
+    "categoria": "Configuración",
+    "titulo_es": "Temas y accesibilidad",
+    "url": "https://vvd.crisp.help/en/article/themes-dt48jy/",
+    "fecha_articulo": "2026-09-01",
+    "revision": "2026-10-25",
+    "resumen": "Tema del mundo, desenfoque, contraste y tipografías."
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Portada de desarrollo",
+    "url": "https://docs.beta.vvd.world/",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "API: introducción",
+    "url": "https://docs.beta.vvd.world/docs",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "API: primeros pasos",
+    "url": "https://docs.beta.vvd.world/docs/quickstart",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "API: conceptos",
+    "url": "https://docs.beta.vvd.world/docs/concepts",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "API: autenticación",
+    "url": "https://docs.beta.vvd.world/docs/authentication",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "API: MCP",
+    "url": "https://docs.beta.vvd.world/docs/mcp",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "API: CLI",
+    "url": "https://docs.beta.vvd.world/docs/cli",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "CLI de desarrollo",
+    "url": "https://docs.beta.vvd.world/workshop/getting-started",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Kits de inicio",
+    "url": "https://docs.beta.vvd.world/workshop/starter-kits",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Herramientas: arquitectura",
+    "url": "https://docs.beta.vvd.world/workshop/tools",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Apps: arquitectura",
+    "url": "https://docs.beta.vvd.world/workshop/apps",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Wikis: arquitectura",
+    "url": "https://docs.beta.vvd.world/workshop/wiki",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guías técnicas: índice",
+    "url": "https://docs.beta.vvd.world/workshop/guides",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: modelo mental",
+    "url": "https://docs.beta.vvd.world/workshop/guides/mental-model",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: estructura de proyectos",
+    "url": "https://docs.beta.vvd.world/workshop/guides/project-anatomy",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: almacenamiento",
+    "url": "https://docs.beta.vvd.world/workshop/guides/storing-data",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: lectura y cambios",
+    "url": "https://docs.beta.vvd.world/workshop/guides/retrieving-data",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: datos de mundo",
+    "url": "https://docs.beta.vvd.world/workshop/guides/world-data",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: presencia",
+    "url": "https://docs.beta.vvd.world/workshop/guides/presence",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: host",
+    "url": "https://docs.beta.vvd.world/workshop/guides/the-host",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: APIs externas",
+    "url": "https://docs.beta.vvd.world/workshop/guides/external-apis",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: pruebas",
+    "url": "https://docs.beta.vvd.world/workshop/guides/testing",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Guía: publicar",
+    "url": "https://docs.beta.vvd.world/workshop/guides/shipping",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Referencia técnica: índice",
+    "url": "https://docs.beta.vvd.world/workshop/reference",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Referencia: comandos",
+    "url": "https://docs.beta.vvd.world/workshop/reference/commands",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Desarrollo (índice localizado)",
+    "titulo_es": "Referencia: apps",
+    "url": "https://docs.beta.vvd.world/workshop/reference/apps",
+    "revision": "2026-10-25",
+    "nivel_verificacion": "estructura o lectura parcial"
+  },
+  {
+    "categoria": "Historial",
+    "titulo_es": "What’s new",
+    "url": "https://vvd.world/whats-new",
+    "revision": "2026-10-25",
+    "ultima_entrada_observada": "2026-10-01"
+  }
+]
