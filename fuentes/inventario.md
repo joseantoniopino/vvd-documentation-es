@@ -30,7 +30,7 @@ La fecha de actualización indicada es la que figura en el propio artículo, no 
 
 | Documento | Actualizado por VVD | Tema |
 |---|---|---|
-| [Fichas](https://vvd.crisp.help/en/article/cards-62i16j/) | 2026-08-20 | Crear, clasificar y editar fichas, bloques y alias. |
+| [Tarjetas (Cards)](https://vvd.crisp.help/en/article/cards-62i16j/) | 2026-08-20 | Crear, clasificar y editar tarjetas, bloques y alias. |
 | [Enlaces y grafo](https://vvd.crisp.help/en/article/connections-the-graph-eir68m/) | 2026-06-01 | Enlaces entre fichas y grafo de relaciones. |
 | [Propiedades](https://vvd.crisp.help/en/article/properties-umr3at/) | 2026-07-03 | Campos textuales y referencias entre fichas. |
 | [Biblioteca multimedia](https://vvd.crisp.help/en/article/media-gallery-w1fuka/) | 2026-04-15 | Subida y reutilización de imágenes. |
@@ -39,9 +39,9 @@ La fecha de actualización indicada es la que figura en el propio artículo, no 
 | [Quill: capítulos y borradores](https://vvd.crisp.help/en/article/chapters-and-drafts-qoqr7j/) | 2026-08-20 | Capítulos y borradores, vista conjunta; en progreso. |
 | [Campañas](https://vvd.crisp.help/en/article/campaigns-yuokro/) | 2026-04-15 | Herramienta antigua de campañas no disponible en la versión corriente. |
 | [Catálogo de herramientas](https://vvd.crisp.help/en/article/tools-ttd107/) | 2026-09-01 | Explorar, instalar, Workshop y herramientas de terceros. |
-| [Árboles de relaciones](https://vvd.crisp.help/en/article/relation-trees-1v7xebv/) | 2026-08-20 | Nodos, vínculos, variantes y personalización. |
+| [Árbol de relaciones](https://vvd.crisp.help/en/article/relation-trees-1v7xebv/) | 2026-08-20 | Nodos, vínculos, variantes y personalización. |
 | [Maps clásico](https://vvd.crisp.help/en/article/maps-akxl85/) | 2026-08-20 | Imagen base, marcadores, zonas, capas y etiquetas. |
-| [Cronologías](https://vvd.crisp.help/en/article/timelines-1ky9csp/) | 2026-08-20 | Calendarios y eventos en cronologías; indicación beta. |
+| [Línea de tiempo (Timelines)](https://vvd.crisp.help/en/article/timelines-1ky9csp/) | 2026-08-20 | Calendarios y eventos en cronologías; indicación beta. |
 | [Canvas](https://vvd.crisp.help/en/article/canvas-13svpxt/) | 2026-08-20 | Tableros, imágenes, grupos y dibujo libre. |
 
 ## Compartir
