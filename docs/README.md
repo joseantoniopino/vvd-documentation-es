@@ -9,7 +9,7 @@ Esta guía organiza vvd por **dominio funcional**, no por la estructura interna 
 | Publicación | [Wikis, permisos y colaboración](publicacion/wikis-y-permisos.md) |
 | Desarrollo | [SDK y Workshop](desarrollo/sdk-y-workshop.md) · [API, MCP y CLI](desarrollo/api-mcp-y-cli.md) |
 | Aplicaciones prácticas | [Flujo para dirigir partidas de rol](guias/flujo-director-de-juego.md), presentado como **guía editorial**, no norma de vvd |
-| Terminología en español | [Glosario](../terminologia/glosario.md) · [Herramientas](../terminologia/herramientas-observadas.md) · [Tipos observados](../terminologia/tipos-observados.md) · [Auditoría de traducción](../auditoria/terminologia-es-2026-10-25.md) |
+| Terminología en español | [Glosario](../terminologia/glosario.md) · [Herramientas](../terminologia/herramientas-observadas.md) · [Tipos observados](../terminologia/tipos-observados.md) · [Auditoría de traducción](../auditoria/terminologia-es-2026-10-25.md) · [Normalización del corpus](../auditoria/normalizacion-terminologica-2026-10-25.md) |
 | Calidad y procedencia | [Inventario oficial](../fuentes/inventario.md) · [Método de verificación](../fuentes/metodologia.md) · [Auditoría](../auditoria/informe-2026-10-25.md) |
 
 ## Qué falta
