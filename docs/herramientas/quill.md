@@ -6,7 +6,7 @@ estado: "Verificado parcialmente; revisar cambios posteriores"
 
 # Quill: escritura y publicación de historias
 
-Quill está pensado para escribir narraciones estructuradas en **historias, capítulos y borradores**. Se integra con fichas y documentos del mundo: permite consultar material de worldbuilding sin salir del espacio de escritura, detectar entidades y enlazar referencias. El panel lateral reúne notas y vistas de documentos; algunos textos del centro de ayuda están marcados expresamente «work in progress».
+Quill está pensado para escribir narraciones estructuradas en **historias, capítulos y borradores**. Se integra con tarjetas (Cards) y documentos del mundo: permite consultar material de worldbuilding sin salir del espacio de escritura, detectar entidades y enlazar referencias. El panel lateral reúne notas y vistas de documentos; algunos textos del centro de ayuda están marcados expresamente «work in progress».
 
 ## Escritura y organización
 
