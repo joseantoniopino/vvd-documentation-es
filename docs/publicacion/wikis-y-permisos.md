@@ -8,7 +8,7 @@ estado: "Verificado parcialmente; revisar cambios posteriores"
 
 ## Diferenciar colaboración y publicación
 
-**Colaboradores**: personas a las que se da acceso al mundo de edición según roles (administrador, editor o lector). **Wiki**: presentación seleccionada del material para lectores externos; se pueden omitir fichas y fragmentos que no deban compartirse. Tener acceso de colaboración al mundo puede dar acceso a material que se oculta de la wiki: no sustituir ocultación de secretos por un mero cambio de plantilla.
+**Colaboradores**: personas a las que se da acceso al mundo de edición según roles (administrador, editor o lector). **Wiki**: presentación seleccionada del material para lectores externos; se pueden omitir tarjetas (Cards) y fragmentos que no deban compartirse. Tener acceso de colaboración al mundo puede dar acceso a material que se oculta de la wiki: no sustituir ocultación de secretos por un mero cambio de plantilla.
 
 ## Tipos de visibilidad indicados en la guía
 
