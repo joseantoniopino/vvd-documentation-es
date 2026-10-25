@@ -35,7 +35,7 @@ En el [anuncio de VVD 3](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3
 
 ## Preferencias visuales y accesibilidad anunciadas en septiembre
 
-El [equipo]( https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) sitúa en la configuración de cuenta las opciones de **tamaño del texto**, **fuente OpenDyslexic** y un **modo de rendimiento** que reduce efectos de desenfoque y transparencia. El tamaño de la barra de pestañas se configura dentro de cada mundo. El [changelog del 14/09](https://vvd.world/whats-new) enumera **Default, Medium, Large y Extra large** para el texto de interfaz y señala que esa preferencia se guarda en el dispositivo. No asumir que el modo de rendimiento modifica el fondo de Maps Classic sin probarlo.
+El [equipo](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) sitúa en la configuración de cuenta las opciones de **tamaño del texto**, **fuente OpenDyslexic** y un **modo de rendimiento** que reduce efectos de desenfoque y transparencia. El tamaño de la barra de pestañas se configura dentro de cada mundo. El [changelog del 14/09](https://vvd.world/whats-new) enumera **Default, Medium, Large y Extra large** para el texto de interfaz y señala que esa preferencia se guarda en el dispositivo. No asumir que el modo de rendimiento modifica el fondo de Maps Classic sin probarlo.
 
 
 ## Fuentes directas
