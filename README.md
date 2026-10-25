@@ -9,6 +9,7 @@
 - [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas.
 - [Catálogo de herramientas y cobertura](docs/herramientas/catalogo.md): incluye las herramientas con y sin guía pública.
 - [Inventario de fuentes](fuentes/inventario.md): enlaces oficiales y fechas de las páginas.
+- [Anuncios del equipo de VVD en Reddit](fuentes/reddit-y-comunidad.md): revisiones mensuales, anuncios y nivel de confianza de las respuestas comunitarias.
 - [Auditoría de evidencias](auditoria/informe-2026-10-25.md): comprobaciones, contradicciones y limitaciones.
 - [Cómo contribuir](CONTRIBUTING.md): procedimiento editorial y requisitos de evidencia.
 
@@ -32,6 +33,7 @@ Cada funcionalidad puede tener versiones independientes. La fecha de revisión d
 3. [Catálogo de herramientas](https://vvd.world/t/maps) — versión de cada herramienta, cuando se publica.
 4. [Precios](https://vvd.world/pricing) — información comercial general, no sustituye a tu contrato.
 5. [Portal de desarrolladores](https://docs.beta.vvd.world/) — API, CLI, SDK, apps y herramientas.
+6. [r/vvdworld](https://www.reddit.com/r/vvdworld/) — anuncios y revisiones mensuales publicados por personal identificado de VVD, contrastados con el changelog.
 
 ## Aviso de derechos
 
