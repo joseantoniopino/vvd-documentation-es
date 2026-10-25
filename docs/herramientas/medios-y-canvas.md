@@ -25,6 +25,15 @@ El catálogo separa **Explorar** (buscar aplicaciones/herramientas y probarlas),
 El artículo de septiembre incluye Canvas, Notes, Conversation, Maps, Relation Trees, hojas y bloques de personaje para D&D 5e, Call of Cthulhu y Daggerheart, visor 3D, Radar Chart, Embed y Tables. **No es una lista completa ni garantiza que todas sigan disponibles con el mismo nombre:** el artículo reconoce que faltan guías y que existen herramientas comunitarias.
 
 
+## Opciones de multimedia y herramientas tras VVD 3
+
+El [equipo en septiembre](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) anunció herramientas específicas para insertar **Spotify, YouTube y Apple Music**. El [changelog del 27/09](https://vvd.world/whats-new) confirma vídeos de YouTube y Apple Music en fichas, además de Spotify, y que los bloques incrustados pueden **redimensionarse arrastrando su borde inferior**. La disponibilidad de reproducción depende también del proveedor externo.
+
+La versión 3 incorpora herramientas independientes, no solo documentos de edición clásicos. Las herramientas listadas por el [anuncio de agosto](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/) incluyen **visor 3D**, **Tables**, **Radar Chart**, **Embeds** y **Notes**. Su descripción exhaustiva debe basarse en la documentación de cada herramienta/autor; el hecho de que aparezcan en el catálogo no permite inventar controles.
+
+Para las funcionalidades que requieren capítulos propios, consultar [Diccionario](diccionario.md), [música y vídeo](incrustaciones-multimedia.md) y [comentarios](../fundamentos/comentarios-y-paths.md).
+
+
 ## Fuentes directas
 
 - https://vvd.crisp.help/en/article/media-gallery-w1fuka/
