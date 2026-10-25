@@ -22,7 +22,7 @@ fuentes:
 | **Relation Trees** | [Relation Trees](https://vvd.crisp.help/en/article/relation-trees-1v7xebv/) | [Guía conjunta](arboles-cronologias-y-grafos.md) |
 | **Timelines** | [Timelines](https://vvd.crisp.help/en/article/timelines-1ky9csp/) | [Guía conjunta](arboles-cronologias-y-grafos.md) |
 | **Quill** | [Quill Overview](https://vvd.crisp.help/en/article/quill-overview-jpl3u0/) | [Guía](quill.md) |
-| **Notes** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
+| **Notes** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Herramienta anunciada; no confundir con el bloque Note del editor de texto; controles pendientes |
 | **Conversation** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
 | **D&D 5e Character Sheet** (dos variantes) | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; versión/controles pendientes |
 | **D&D 5e Stat Block** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
@@ -31,10 +31,12 @@ fuentes:
 | **Daggerheart Adversary Stat Block** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
 | **3D Model Viewer** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
 | **Radar Chart** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
-| **Embed** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
+| **Embed** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) · [novedades](https://vvd.world/whats-new) | [Incrustaciones multimedia](incrustaciones-multimedia.md); otros casos pendientes |
 | **Tables** | [Tools](https://vvd.crisp.help/en/article/tools-ttd107/) | Existencia documentada; controles pendientes |
-| **Dictionary** | [Novedad 13/09/2026](https://vvd.world/whats-new) | Anunciado; guía detallada pendiente |
+| **Dictionary** | [Novedad 13/09/2026](https://vvd.world/whats-new) · [equipo en Reddit](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) | [Guía de funciones anunciadas](diccionario.md), controles detallados pendientes |
 | **Campaigns (legacy)** | [Campaigns](https://vvd.crisp.help/en/article/campaigns-yuokro/) | Artículo indica indisponibilidad en la versión nueva; verificar de nuevo antes de recomendar |
+
+Los **comentarios y Paths** son funciones transversales, no necesariamente herramientas instalables: consulta [colaboración e incorporación](../fundamentos/comentarios-y-paths.md).
 
 ## Cómo completar una herramienta
 
