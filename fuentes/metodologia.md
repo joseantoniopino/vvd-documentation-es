@@ -15,6 +15,10 @@
 
 Si dos fuentes oficiales discrepan, registrar **ambas** y el alcance de la duda. No inventar resolución; una fecha más reciente orienta, pero no resuelve por sí sola un contrato o una función distinta.
 
+## Nomenclatura española de los controles
+
+Las instrucciones de uso deben citar **literalmente la etiqueta visible en la interfaz española**, siempre que exista evidencia fechada. No basta con traducir de forma libre una guía inglesa. Distinguir nombres **observados en capturas** de cadenas procedentes de archivos oficiales de localización, si algún día estuvieran disponibles. Consultar [evidencia de interfaz](evidencia-interfaz-es-2026-10-25.md) y [glosario](../terminologia/glosario.md). Una captura del mundo de un usuario **no permite afirmar** que todos sus tipos están predeterminados en otras cuentas.
+
 ## Etiquetas editoriales
 
 - **Confirmado documentalmente**: descripción explícita, con URL.
