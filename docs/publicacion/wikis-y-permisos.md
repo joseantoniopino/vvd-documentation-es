@@ -39,7 +39,7 @@ La estructura de una wiki permite **agrupar páginas por tipo** o **definir agru
 
 En el [anuncio de agosto](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/), **Overworld** pasa a ser un diseño **heredado sin soporte para nuevos usuarios**; el [changelog del 27/09](https://vvd.world/whats-new) alude a mantener el aspecto de wikis Overworld antiguas. **No sugerir Overworld como plantilla de nueva creación**. En septiembre se anuncian las plantillas de ciencia ficción **Terminal** y **Shell**; el [changelog del 01/10](https://vvd.world/whats-new) explica que Shell permite navegar mediante comandos.
 
-El mismo anuncio confirma que en las wikis pueden publicarse documentos creados con herramientas (árboles, cronologías, Canvas, grafos, etc.), sujetos a las condiciones del plan y a sus ajustes de publicación.
+El mismo anuncio confirma que en las wikis pueden publicarse documentos creados con herramientas («Árbol de relaciones», «Línea de tiempo», «Canvas», «Grafo del Mundo», etc.), sujetos a las condiciones del plan y a sus ajustes de publicación.
 
 
 ## Fuentes directas
