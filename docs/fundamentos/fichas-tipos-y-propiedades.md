@@ -6,7 +6,7 @@ estado: "Verificado parcialmente; revisar cambios posteriores"
 
 # Tarjetas, tipos, plantillas, propiedades y conexiones
 
-En la interfaz española analizada, **Card** aparece como **«Tarjeta»** (por ejemplo, en el acceso inferior «Tarjeta» y en el selector **«Selecciona un tipo»**). En este manual se utiliza **tarjeta** para instrucciones sobre la interfaz; **tarjeta** puede utilizarse como sinónimo conceptual, pero no se presenta como una etiqueta literal. [Evidencia de interfaz](../../terminologia/glosario.md).
+En la interfaz española analizada, **Card** aparece como **«Tarjeta»** (por ejemplo, en el acceso inferior «Tarjeta» y en el selector **«Selecciona un tipo»**). En este manual utilizamos **tarjeta** para identificar los controles de VVD; **ficha** puede aparecer como sinónimo explicativo, pero **no** debe confundirse con el nombre del control. [Evidencia de interfaz](../../terminologia/glosario.md).
 
 ## Tarjetas (Cards)
 
@@ -33,7 +33,7 @@ Dos familias descritas oficialmente: campos textuales y referencias a otras tarj
 1. Mencionar en texto el nombre o alias de otra tarjeta (autovinculación).
 2. Crear una propiedad que haga referencia a otra tarjeta.
 
-Estas relaciones se representan en el **Grafo del mundo**, donde es posible explorar y filtrar conexiones. El sistema de vínculos dibujados en **Árboles de relaciones** es diferente: no debe suponerse que aparezcan automáticamente en el grafo.
+Estas relaciones se representan en el **Grafo del Mundo**, donde es posible explorar y filtrar conexiones. El sistema de vínculos dibujados en **Árbol de relaciones** es diferente: no debe suponerse que aparezcan automáticamente en el grafo.
 
 ## Asistencia de IA opcional
 
