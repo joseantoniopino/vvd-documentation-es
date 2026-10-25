@@ -14,6 +14,8 @@ La biblioteca reúne imágenes públicas y subidas por el usuario para su utiliz
 
 ## Canvas
 
+En el catálogo español, la herramienta conserva el nombre **«Canvas»**; dentro del editor de una **Tarjeta** aparece el botón **«Lienzo»**. Esta diferencia está observada en capturas y no debe unificarse a ciegas. [Glosario](../../terminologia/glosario.md).
+
 Canvas es un lienzo libre para diagramas, tableros de inspiración, mapas mentales y bocetos. Acepta fichas, imágenes, texto, secciones, grupos y dibujo. No se debe confundir con el editor de mapas, aunque ambos representen información visualmente.
 
 ## Herramientas y Workshop
