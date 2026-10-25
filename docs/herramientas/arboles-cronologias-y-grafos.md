@@ -29,7 +29,7 @@ Recomendación editorial: cronologías para la historia del escenario, grafo par
 
 ## Alcance concreto de las novedades de septiembre
 
-La [revisión mensual del equipo](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) confirma que los árboles de relaciones pueden comenzar como **Family, Corporate, Military, Royal court o Blank**, y que ahora los **eventos de cronología admiten varias tarjetas asociadas**. El [changelog del 01/10](https://vvd.world/whats-new) añade dos procedimientos: arrastrar tarjetas desde la barra lateral hasta un evento abierto o buscarlas filtrando por tipo; también documenta mover eventos entre carriles.
+La [revisión mensual del equipo](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) confirma que los árboles de relaciones pueden comenzar como **Family, Corporate, Military, Royal court o Blank**, y que ahora los **eventos de Línea de tiempo admiten varias tarjetas asociadas**. El [changelog del 01/10](https://vvd.world/whats-new) añade dos procedimientos: arrastrar tarjetas desde la barra lateral hasta un evento abierto o buscarlas filtrando por tipo; también documenta mover eventos entre carriles.
 
 El [changelog del 27/09](https://vvd.world/whats-new) indica que se puede mantener pulsada la **barra espaciadora** para desplazar la vista (*pan*) de cronologías, mapas, árboles y grafos sin cambiar permanentemente de herramienta. No debe interpretarse como garantía de compatibilidad en todos los dispositivos táctiles.
 
