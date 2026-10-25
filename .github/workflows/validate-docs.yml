@@ -1,0 +1,27 @@
+name: Validar documentación
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar VitePress
+        run: npm install --no-audit --no-fund
+      - name: Comprobar enlaces Markdown locales
+        run: npm run docs:check-links
+      - name: Compilar documentación
+        run: npm run docs:build
