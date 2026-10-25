@@ -8,7 +8,7 @@ estado: "Verificado parcialmente; revisar cambios posteriores"
 
 ## Jerarquía de trabajo
 
-VVD organiza el contenido dentro de **mundos**: un mundo funciona como espacio de proyecto y puede representar un universo completo, no solamente un planeta. Dentro de él conviven **tarjetas** (Cards, a veces llamadas fichas en textos explicativos) y otros **documentos** elaborados mediante herramientas: mapas, cronologías, árboles, lienzos y documentos personalizados.
+VVD organiza el contenido dentro de **mundos**: un mundo funciona como espacio de proyecto y puede representar un universo completo, no solamente un planeta. Dentro de él conviven **tarjetas** (Cards, a veces llamadas tarjetas en textos explicativos) y otros **documentos** elaborados mediante herramientas: mapas, cronologías, árboles, lienzos y documentos personalizados.
 
 La **tarjeta** es la unidad preferente para información persistente: personajes, lugares, facciones, escenas, objetos o acontecimientos. El usuario puede enlazar tarjetas entre sí y desde ciertos marcadores del mapa. El **documento** no es sinónimo de tarjeta: un mapa es también un documento, pero de otro tipo.
 
@@ -25,7 +25,7 @@ La **tarjeta** es la unidad preferente para información persistente: personajes
 | Nombre | Función |
 |---|---|
 | Mundo | Espacio que agrupa contenido y colaboradores |
-| Tarjeta / Card | Unidad de conocimiento enlazable (a menudo llamada «ficha» en contextos de rol) |
+| Tarjeta / Card | Unidad de conocimiento enlazable (a menudo llamada «tarjeta» en contextos de rol) |
 | Documento | Objeto editable: tarjeta, mapa, Línea de tiempo, etc. |
 | Herramienta | Editor o componente que crea un tipo de documento |
 | Bloque | Contenido incrustado dentro de otro documento |
