@@ -9,9 +9,9 @@ fuentes:
 
 # Comentarios en el mundo y recorridos guiados
 
-## Comentarios en fichas y documentos
+## Comentarios en tarjetas y documentos
 
-La [revisión de septiembre](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) y el [changelog del 20/09/2026](https://vvd.world/whats-new) anuncian **comentarios dentro del mundo** en fichas y herramientas, incluidos mapas y Canvas.
+La [revisión de septiembre](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) y el [changelog del 20/09/2026](https://vvd.world/whats-new) anuncian **comentarios dentro del mundo** en tarjetas y herramientas, incluidos mapas y Canvas.
 
 Funcionalidades anunciadas:
 
