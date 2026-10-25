@@ -26,21 +26,21 @@ Una clasificación razonable para rol sería `Lugares → Mazmorra → Sala`, `P
 
 ## Propiedades
 
-Dos familias descritas oficialmente: campos textuales y referencias a otras fichas. Pueden definirse individualmente o en un tipo para reutilización. Ejemplos prácticos: `Nivel de peligro`, `Habitantes`, `Secreto`, `Facción`, `Salas conectadas`. Confirmar los tipos de dato disponibles en tu herramienta actual antes de crear un esquema complejo.
+Dos familias descritas oficialmente: campos textuales y referencias a otras tarjetas. Pueden definirse individualmente o en un tipo para reutilización. Ejemplos prácticos: `Nivel de peligro`, `Habitantes`, `Secreto`, `Facción`, `Salas conectadas`. Confirmar los tipos de dato disponibles en tu herramienta actual antes de crear un esquema complejo.
 
 ## Dos formas de vincular tarjetas
 
-1. Mencionar en texto el nombre o alias de otra ficha (autovinculación).
-2. Crear una propiedad que haga referencia a otra ficha.
+1. Mencionar en texto el nombre o alias de otra tarjeta (autovinculación).
+2. Crear una propiedad que haga referencia a otra tarjeta.
 
 Estas relaciones se representan en el **Grafo del mundo**, donde es posible explorar y filtrar conexiones. El sistema de vínculos dibujados en **Árboles de relaciones** es diferente: no debe suponerse que aparezcan automáticamente en el grafo.
 
 ## Asistencia de IA opcional
 
-La documentación oficial distingue entre detección de entidades (sugerir nuevas fichas en textos) y autovinculación (enlazar tarjetas ya existentes). Las plantillas guiadas reorganizan contenido; la política pública explica cómo se procesa el texto y sus límites. Si te preocupa la privacidad, lee la política original vigente, no solo este resumen.
+La documentación oficial distingue entre detección de entidades (sugerir nuevas tarjetas en textos) y autovinculación (enlazar tarjetas ya existentes). Las plantillas guiadas reorganizan contenido; la política pública explica cómo se procesa el texto y sus límites. Si te preocupa la privacidad, lee la política original vigente, no solo este resumen.
 
 
-## Cambios recientes del editor de fichas
+## Cambios recientes del editor de tarjetas
 
 - **Tarjetas sin imagen:** VVD 3 permite prescindir de la imagen de una tarjeta, aunque el [anuncio de agosto](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/) advertía que todavía se estaba adaptando el resto de la interfaz a esa posibilidad.
 - **Tablas dentro de bloques de texto:** el [anuncio de septiembre](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) confirma inserción mediante el menú **`/`**.
