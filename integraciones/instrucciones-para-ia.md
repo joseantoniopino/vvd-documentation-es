@@ -25,3 +25,11 @@ El modelo no se «reentrena» al cargarlo; consulta estos textos como contexto. 
 
 - https://vvd.world/whats-new
 - https://vvd.crisp.help/en/
+
+## Norma obligatoria de terminología española (25/10/2026)
+
+- Consultar el [glosario YAML](../terminologia/glosario.yml) antes de nombrar controles concretos.
+- Priorizar los nombres de la interfaz española **observada** (p. ej. **Tarjeta**, **Línea de tiempo**, **Grafo del Mundo**, **Agregar tipo**), y conservar inglés si VVD lo utiliza realmente (**Canvas**, **Workshop**, **Lore**, **Coven**, **Tome**).
+- No confundir botones de inserción en **Tarjeta** con nombres de herramientas autónomas.
+- No afirmar que los tipos observados sean predeterminados ni globales; [registro](../terminologia/tipos-observados.md).
+- Contrastar la fecha y versión; si falta evidencia, declarar **«traducción no verificada»**.
