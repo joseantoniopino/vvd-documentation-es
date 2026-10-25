@@ -29,7 +29,7 @@ Las páginas oficiales distinguen propiedad de tu contenido y autorización para
 
 ## Aclaración del equipo sobre importaciones y continuidad
 
-En los [comentarios de la revisión de agosto de 2026](https://www.reddit.com/r/vvdworld/comments/1w7ib76/vvds_august_2026/), un miembro identificado como personal de VVD indicó que el importador estaba **disponible** desde la flecha desplegable situada junto al nombre del mundo, pero que su funcionamiento todavía necesitaba mejoras. Es una **respuesta oficial contextual**, no garantía de importación perfecta de relaciones, fichas o calendarios. Conservar siempre una copia previa y revisar qué estructuras se crean.
+En los [comentarios de la revisión de agosto de 2026](https://www.reddit.com/r/vvdworld/comments/1w7ib76/vvds_august_2026/), un miembro identificado como personal de VVD indicó que el importador estaba **disponible** desde la flecha desplegable situada junto al nombre del mundo, pero que su funcionamiento todavía necesitaba mejoras. Es una **respuesta oficial contextual**, no garantía de importación perfecta de relaciones, tarjetas o calendarios. Conservar siempre una copia previa y revisar qué estructuras se crean.
 
 En el [anuncio de VVD 3](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/) se señalaba que las aplicaciones **no disponían de modo offline completo**. Las mejoras posteriores de septiembre relativas a edición durante interrupciones temporales deben entenderse por separado: **resiliencia ante cortes de red no equivale a funcionamiento offline integral**. [Historial de cambios](https://vvd.world/whats-new).
 
