@@ -6,11 +6,11 @@ estado: "Verificado parcialmente; revisar cambios posteriores"
 
 # Tarjetas, tipos, plantillas, propiedades y conexiones
 
-En la interfaz española analizada, **Card** aparece como **«Tarjeta»** (por ejemplo, en el acceso inferior «Tarjeta» y en el selector **«Selecciona un tipo»**). En este manual se utiliza **tarjeta** para instrucciones sobre la interfaz; **ficha** puede utilizarse como sinónimo conceptual, pero no se presenta como una etiqueta literal. [Evidencia de interfaz](../../terminologia/glosario.md).
+En la interfaz española analizada, **Card** aparece como **«Tarjeta»** (por ejemplo, en el acceso inferior «Tarjeta» y en el selector **«Selecciona un tipo»**). En este manual se utiliza **tarjeta** para instrucciones sobre la interfaz; **tarjeta** puede utilizarse como sinónimo conceptual, pero no se presenta como una etiqueta literal. [Evidencia de interfaz](../../terminologia/glosario.md).
 
 ## Tarjetas (Cards)
 
-Una tarjeta representa algo que merece descripción propia: una sala, un PNJ, un encuentro, una trampa, una facción, un objeto mágico. Puede llevar título, alias, imagen, propiedades y bloques de texto u otras herramientas. El alias puede ayudar a identificar menciones de un mismo personaje o lugar.
+Una **tarjeta** (*Card*) representa algo que merece descripción propia: una sala, un PNJ, un encuentro, una trampa, una facción, un objeto mágico. Puede llevar título, alias, imagen, propiedades y bloques de texto u otras herramientas. El alias puede ayudar a identificar menciones de un mismo personaje o lugar.
 
 Para crear una tarjeta, el centro de ayuda documenta el menú contextual del editor o los accesos de la barra lateral. Al crearla se elige un tipo o subtipo; se puede cambiar después sin rehacer la tarjeta.
 
@@ -22,7 +22,7 @@ En **Información del mundo → Tipos**, el responsable puede definir una taxono
 
 El artículo actualizado el 21/09/2026 indica que es posible sincronizar cambios con tarjetas ya existentes; conviene confirmar el alcance antes de aplicarlos masivamente.
 
-Una clasificación razonable para rol sería `Lugares → Mazmorra → Sala`, `PNJ → Aliado/Enemigo`, `Encuentro`, `Trampa`, `Tesoro`, `Facción`. **Es una propuesta de organización, no un conjunto de tipos preinstalados confirmado.**
+En el selector observado existe la categoría **«Ubicación»** y, dentro de ella, **«Mazmorra»** y **«Cripta»**. También existen las categorías **«Personaje»**, **«Facción»**, **«Objeto»** y **«Evento»**. Para organizar una aventura puedes crear tipos propios como «Sala», «Trampa» o «Encuentro», pero **no se ha constatado que estén preinstalados**. Véase [tipos observados](../../terminologia/tipos-observados.md).
 
 ## Propiedades
 
