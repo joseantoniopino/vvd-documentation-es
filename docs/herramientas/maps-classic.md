@@ -8,16 +8,16 @@ estado: "Funciones principales verificadas; apariencia y controles pendientes de
 
 ## Para qué sirve
 
-**Maps / Mapas clásico** parte de una imagen preexistente (mapa de mundo, región, ciudad, edificio o mazmorra) y permite convertirla en una superficie interactiva. La ficha del catálogo menciona expresamente las mazmorras. Es la elección inicial más sencilla para un plano ya dibujado.
+**Maps / Mapas clásico** parte de una imagen preexistente (mapa de mundo, región, ciudad, edificio o mazmorra) y permite convertirla en una superficie interactiva. La ficha descriptiva del catálogo menciona expresamente las mazmorras. Es la elección inicial más sencilla para un plano ya dibujado.
 
 ## Capacidades documentadas
 
 - Incorporar una **imagen base** desde la biblioteca multimedia o mediante importación.
-- Añadir **marcadores/pins** vinculados a fichas; la guía cita hacer clic derecho o arrastrar fichas desde la barra lateral.
-- Crear **zonas** mediante vértices sobre la imagen, con un contorno configurable, y asociarlas a fichas.
+- Añadir **marcadores/pins** vinculados a tarjetas; la guía cita hacer clic derecho o arrastrar tarjetas desde la barra lateral.
+- Crear **zonas** mediante vértices sobre la imagen, con un contorno configurable, y asociarlas a tarjetas.
 - Añadir **etiquetas de texto**.
 - Organizar elementos en **capas** y cambiar su visibilidad/disposición.
-- Incrustar un mapa ya creado en una ficha como bloque.
+- Incrustar un mapa ya creado en una tarjeta como bloque.
 - Asociar mapas entre sí mediante marcadores o zonas (descrito en las novedades de 2026).
 
 ## Cómo crear un mapa de mazmorra
@@ -25,7 +25,7 @@ estado: "Funciones principales verificadas; apariencia y controles pendientes de
 1. Localiza la herramienta **Mapas**, icono de mapa plegado; no confundir con **Mapa / Map Maker Beta**.
 2. Crea un documento con un nombre como `La Cripta`.
 3. Selecciona el plano como **imagen base** y comprueba que aparece nítido.
-4. Crea una ficha por habitación relevante y asocia un marcador o zona a la ficha.
+4. Crea una tarjeta por habitación relevante y asocia un marcador o zona a esa tarjeta.
 5. Separa por capas, si lo permite tu versión, marcadores visibles, información del director de juego y navegación. **No se ha verificado un sistema de visibilidad por jugador a nivel de capa**: no asumir que cambiar capas oculta contenido en todos los contextos de publicación.
 6. Prueba un marcador completo antes de importar las doce salas.
 
