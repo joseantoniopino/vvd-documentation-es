@@ -1,0 +1,325 @@
+# Transcripción de etiquetas de la interfaz española de VVD. No es un archivo oficial de traducción.
+version: 1
+fecha_observacion: "2026-10-25"
+idioma: "es"
+tipo_evidencia: "capturas_del_usuario_no_redistribuidas"
+advertencia: "Una observación en un mundo no confirma que todos sus tipos sean predeterminados."
+terminos:
+  tarjeta:
+    es_ui: "Tarjeta"
+    ingles: "Card"
+    contexto: "Tarjeta emergente en barra inferior; selector de tipo y editor."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+    nota: "La documentación preexistente decía «ficha»; conservar «ficha» como sinónimo explicativo, no como nombre de control."
+  mundo:
+    es_ui: "Mundo"
+    ingles: "World"
+    contexto: "Pestaña superior de navegación."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  herramientas:
+    es_ui: "Herramientas"
+    ingles: "Tools"
+    contexto: "Título del catálogo de herramientas."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  explorar:
+    es_ui: "Explorar"
+    ingles: null
+    contexto: "Pestaña superior del catálogo de herramientas."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  biblioteca:
+    es_ui: "Biblioteca"
+    ingles: null
+    contexto: "Pestaña superior del catálogo de herramientas."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "No confundir con biblioteca multimedia si el contexto no lo permite."
+  workshop:
+    es_ui: "Workshop"
+    ingles: "Workshop"
+    contexto: "Pestaña superior del catálogo; conservada en inglés."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  instalado:
+    es_ui: "Instalado"
+    ingles: null
+    contexto: "Agrupación de herramientas instaladas."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  nuevo:
+    es_ui: "Nuevo"
+    ingles: null
+    contexto: "Apartado de catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  buscar_herramientas:
+    es_ui: "Buscar herramientas"
+    ingles: null
+    contexto: "Placeholder de búsqueda del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  categoria_ttrpg:
+    es_ui: "TTRPG"
+    ingles: null
+    contexto: "Filtro del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  desarrollo_de_juegos:
+    es_ui: "Desarrollo de juegos"
+    ingles: null
+    contexto: "Filtro del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  escritura:
+    es_ui: "Escritura"
+    ingles: null
+    contexto: "Filtro del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  guionismo:
+    es_ui: "Guionismo"
+    ingles: null
+    contexto: "Filtro del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  comics:
+    es_ui: "Cómics"
+    ingles: null
+    contexto: "Filtro del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  animacion:
+    es_ui: "Animación"
+    ingles: null
+    contexto: "Filtro del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  grafo_del_mundo:
+    es_ui: "Grafo del Mundo"
+    ingles: "World Graph"
+    contexto: "Herramienta del catálogo. Se repite en distintas secciones."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "Usar literalmente al indicar la opción de menú."
+  arbol_de_relaciones:
+    es_ui: "Árbol de relaciones"
+    ingles: "Relation Trees"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  linea_de_tiempo:
+    es_ui: "Línea de tiempo"
+    ingles: "Timeline"
+    contexto: "Herramienta; aparece también como bloque de tarjeta."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "El documento puede explicar «cronología» como concepto."
+  mapa_beta:
+    es_ui: "Mapa"
+    ingles: "Map Maker"
+    contexto: "Herramienta con distintivo «Beta» en Construcción de mundos."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "No confundir con bloque «Mapa» dentro de tarjeta ni con «Mapas» clásico."
+  mapas_clasico:
+    es_ui: "Mapas"
+    ingles: "Maps Classic"
+    contexto: "Nombre observado en capturas anteriores del catálogo y editor clásico."
+    evidencia: "capturas-previas"
+    estado: "observado_en_captura"
+    nota: "Separar de «Mapa» beta."
+  canvas_catalogo:
+    es_ui: "Canvas"
+    ingles: "Canvas"
+    contexto: "Nombre de herramienta en el catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "La misma clase visual puede aparecer como «Lienzo» dentro de una tarjeta."
+  lienzo_bloque:
+    es_ui: "Lienzo"
+    ingles: null
+    contexto: "Acción para insertar contenido en editor de Tarjeta."
+    evidencia: "tarjeta-editor"
+    estado: "observado_en_captura"
+    nota: "No afirmar que «Canvas» y «Lienzo» son módulos funcionalmente idénticos sin contrastar."
+  notas:
+    es_ui: "Notas"
+    ingles: "Notes"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "No equivale automáticamente al bloque «Nota» del editor."
+  conversacion:
+    es_ui: "Conversación"
+    ingles: "Conversation"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  tabla:
+    es_ui: "Tabla"
+    ingles: "Tables"
+    contexto: "Herramienta de Referencia y datos."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  incrustar:
+    es_ui: "Incrustar"
+    ingles: "Embed"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  diccionario:
+    es_ui: "Diccionario"
+    ingles: "Dictionary"
+    contexto: "Herramienta en Explorar nuevo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  viajar:
+    es_ui: "Viajar"
+    ingles: null
+    contexto: "Herramienta de Lentes de mapa."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "La categoría «Lentes de mapa» es la etiqueta mostrada."
+  grafico_de_radar:
+    es_ui: "Gráfico de Radar"
+    ingles: "Radar Chart"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "Mantener mayúsculas de la interfaz cuando se cita el control."
+  visor_de_modelos_3d:
+    es_ui: "Visor de modelos 3D"
+    ingles: "3D Model Viewer"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  nota_de_voz:
+    es_ui: "Nota de voz"
+    ingles: "Voice Note"
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  hoja_personaje_5e:
+    es_ui: "Hoja de personaje de 5e"
+    ingles: null
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "La familia puede contener múltiples variantes."
+  hoja_personaje_coc:
+    es_ui: "Hoja de personaje de CoC"
+    ingles: null
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+    nota: "«CoC» aparece literalmente, sin expandir en el control."
+  hoja_personaje_daggerheart:
+    es_ui: "Hoja de personaje de Daggerheart"
+    ingles: null
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  adversario_daggerheart:
+    es_ui: "Adversario de Daggerheart"
+    ingles: null
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  bloque_estadisticas_5e:
+    es_ui: "Bloque de estadísticas de 5e"
+    ingles: null
+    contexto: "Herramienta del catálogo."
+    evidencia: "herramientas"
+    estado: "observado_en_captura"
+  bloque_estadisticas_editor:
+    es_ui: "Bloque de Estadísticas"
+    ingles: null
+    contexto: "Botón de inserción en Tarjeta."
+    evidencia: "tarjeta-editor"
+    estado: "observado_en_captura"
+    nota: "No confundir con nombre de una herramienta independiente."
+  selecciona_tipo:
+    es_ui: "Selecciona un tipo"
+    ingles: null
+    contexto: "Título del selector para crear una Tarjeta."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+  buscar_tipos:
+    es_ui: "Buscar tipos..."
+    ingles: null
+    contexto: "Placeholder de búsqueda del selector de tipos."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+  agregar_tipo:
+    es_ui: "Agregar tipo"
+    ingles: null
+    contexto: "Acción inferior del selector de tipos."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+  categorias:
+    es_ui: "Categorías"
+    ingles: null
+    contexto: "Rótulo lateral del selector."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+  alias:
+    es_ui: "Alias"
+    ingles: "Alias"
+    contexto: "Campo de Tarjeta."
+    evidencia: "tarjeta-editor"
+    estado: "observado_en_captura"
+  agregar_propiedad:
+    es_ui: "Agregar propiedad"
+    ingles: null
+    contexto: "Acción del editor de Tarjeta."
+    evidencia: "tarjeta-editor"
+    estado: "observado_en_captura"
+  plantillas_guiadas:
+    es_ui: "Plantillas Guiadas"
+    ingles: null
+    contexto: "Apartado del editor de Tarjeta."
+    evidencia: "tarjeta-editor"
+    estado: "observado_en_captura"
+    nota: "El texto descriptivo de la ayuda contextual explica que reordena la información en bloques."
+  libre:
+    es_ui: "Libre"
+    ingles: null
+    contexto: "Opción visible en Plantillas Guiadas."
+    evidencia: "tarjeta-editor"
+    estado: "observado_en_captura"
+  navegar:
+    es_ui: "Navegar"
+    ingles: null
+    contexto: "Ayuda inferior del selector de tipos."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+  seleccionar:
+    es_ui: "Seleccionar"
+    ingles: null
+    contexto: "Ayuda inferior del selector de tipos."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+  lore:
+    es_ui: "Lore"
+    ingles: null
+    contexto: "Categoría y tipo en el selector, conservado en inglés."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+    nota: "No sustituir automáticamente por «Trasfondo»."
+  coven:
+    es_ui: "Coven"
+    ingles: null
+    contexto: "Tipo dentro de «Facción», conservado en inglés."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+    nota: "No renombrar automáticamente «Aquelarre»."
+  tome:
+    es_ui: "Tome"
+    ingles: null
+    contexto: "Tipo dentro de «Objeto», conservado en inglés."
+    evidencia: "tipos-editor"
+    estado: "observado_en_captura"
+    nota: "No renombrar automáticamente «Tomo»."
