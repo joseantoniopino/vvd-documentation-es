@@ -13,15 +13,15 @@ estado: "Guía práctica elaborada, no procedimiento oficial completo"
 1. Crear un mundo para el escenario, sin rediseñar todo el sistema de tipos.
 2. Elegir **Mapas clásico** si ya existe un plano de mazmorra dibujado. Evitar Map Maker Beta para la primera importación si no necesitas geografía ni rutas.
 3. Añadir el plano a la biblioteca; comprobarlo en un documento de prueba.
-4. Crear una ficha `Sala 01 — Entrada` con la información que necesitas al dirigir. Estructura propuesta: `Descripción visible`, `Elementos interactivos`, `Encuentro`, `Secreto`, `Consecuencias`, `Referencias`.
-5. Crear un marcador sobre la sala y enlazar la ficha desde el mapa. Probar que abre correctamente antes de repetir el proceso.
-6. Duplicar la estructura en los demás recintos: salas 2A–2D, 3–12, etc., sin asumir que todos deban tener ficha propia.
+4. Crear una tarjeta `Sala 01 — Entrada` con la información que necesitas al dirigir. Estructura propuesta: `Descripción visible`, `Elementos interactivos`, `Encuentro`, `Secreto`, `Consecuencias`, `Referencias`.
+5. Crear un marcador sobre la sala y enlazar la tarjeta desde el mapa. Probar que abre correctamente antes de repetir el proceso.
+6. Duplicar la estructura en los demás recintos: salas 2A–2D, 3–12, etc., sin asumir que todos deban tener tarjeta propia.
 7. Separar información pública y notas del director. **No compartir una wiki o acceso de colaboración sin comprobar que las notas secretas permanecen ocultas.**
 8. Hacer una exportación y verificar el contenido antes de invertir horas en introducir más material.
 
 ## Escalar después
 
-Solo cuando el núcleo mapa → marcador → ficha funcione con fluidez: añadir relaciones entre PNJ y facciones, cronologías, mapas de regiones, esquemas de sectores y publicación de la wiki de jugadores.
+Solo cuando el núcleo mapa → marcador → tarjeta funcione con fluidez: añadir relaciones entre PNJ y facciones, cronologías, mapas de regiones, esquemas de sectores y publicación de la wiki de jugadores.
 
 ## Prueba de aceptación
 
