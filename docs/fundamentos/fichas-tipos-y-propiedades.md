@@ -34,6 +34,17 @@ Estas relaciones se representan en el **Grafo del mundo**, donde es posible expl
 La documentación oficial distingue entre detección de entidades (sugerir nuevas fichas en textos) y autovinculación (enlazar fichas ya existentes). Las plantillas guiadas reorganizan contenido; la política pública explica cómo se procesa el texto y sus límites. Si te preocupa la privacidad, lee la política original vigente, no solo este resumen.
 
 
+## Cambios recientes del editor de fichas
+
+- **Fichas sin imagen:** VVD 3 permite prescindir de la imagen de una ficha, aunque el [anuncio de agosto](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/) advertía que todavía se estaba adaptando el resto de la interfaz a esa posibilidad.
+- **Tablas dentro de bloques de texto:** el [anuncio de septiembre](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) confirma inserción mediante el menú **`/`**.
+- **Recorte de imágenes de fichas:** el [changelog del 27/09](https://vvd.world/whats-new) documenta formatos **Card 3:4**, **Landscape 4:3**, **Square** y recorte libre.
+- **Bloques de nota, pregunta e información:** el [changelog del 27/09](https://vvd.world/whats-new) incorpora **Note**, **Question** (editable o respondible en contexto) e **Info**; este último también aparece en la wiki.
+- **Insertar bloques donde se necesitan:** el [changelog del 01/10](https://vvd.world/whats-new) permite usar el menú contextual de la barra de título del bloque y escoger **Above**, **Below**, **Left** o **Right**.
+
+**Alcance:** fuentes de cambios de producto, no pruebas de que los mismos tipos de bloque estén disponibles en todas las herramientas o planes.
+
+
 ## Fuentes directas
 
 - https://vvd.crisp.help/en/article/cards-62i16j/
