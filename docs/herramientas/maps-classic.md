@@ -8,7 +8,7 @@ estado: "Funciones principales verificadas; apariencia y controles pendientes de
 
 ## Para qué sirve
 
-**Maps / Mapas clásico** parte de una imagen preexistente (mapa de mundo, región, ciudad, edificio o mazmorra) y permite convertirla en una superficie interactiva. La ficha descriptiva del catálogo menciona expresamente las mazmorras. Es la elección inicial más sencilla para un plano ya dibujado.
+**Maps / Mapas clásico** parte de una imagen preexistente (mapa de mundo, región, ciudad, edificio o mazmorra) y permite convertirla en una superficie interactiva. La descripción oficial del catálogo menciona expresamente las mazmorras. Es la elección inicial más sencilla para un plano ya dibujado.
 
 ## Capacidades documentadas
 
