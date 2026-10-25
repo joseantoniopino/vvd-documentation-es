@@ -15,7 +15,7 @@ fuentes:
 
 | Herramienta o familia | Evidencia oficial | Cobertura actual |
 |---|---|---|
-| **Tarjetas (Cards), tipos y propiedades** | [Cards](https://vvd.crisp.help/en/article/cards-62i16j/) · [Types](https://vvd.crisp.help/en/article/card-types-templates-44at3z/) | [Guía](../fundamentos/tarjetas-tipos-y-propiedades.md) |
+| **Tarjetas (Cards), tipos y propiedades** | [Cards](https://vvd.crisp.help/en/article/cards-62i16j/) · [Types](https://vvd.crisp.help/en/article/card-types-templates-44at3z/) | [Guía](../fundamentos/fichas-tipos-y-propiedades.md) |
 | **Grafo del Mundo (World Graph)** | [Connections & The Graph](https://vvd.crisp.help/en/article/connections-the-graph-eir68m/) | [Guía conjunta](arboles-cronologias-y-grafos.md) |
 | **Maps (clásico)** | [Maps](https://vvd.crisp.help/en/article/maps-akxl85/) · [catálogo](https://vvd.world/t/maps) | [Guía](maps-classic.md) |
 | **Map Maker (beta)** | [Novedad 01/10/2026](https://vvd.world/whats-new) | [Guía de alcance](map-maker.md); sin manual exhaustivo |
