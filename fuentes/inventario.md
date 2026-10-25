@@ -70,6 +70,7 @@ La fecha de actualización indicada es la que figura en el propio artículo, no 
 - [Cambios oficiales](https://vvd.world/whats-new) (última entrada encontrada: 1 de octubre de 2026).
 - [Maps clásico, catálogo](https://vvd.world/t/maps).
 - [Portal para desarrolladores](https://docs.beta.vvd.world/).
+- [Reddit r/vvdworld](https://www.reddit.com/r/vvdworld/) — [anuncios del equipo, revisiones mensuales y criterios de fiabilidad](reddit-y-comunidad.md).
 
 ## Documentación técnica localizada
 
