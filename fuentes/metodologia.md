@@ -8,8 +8,10 @@
 2. **Fuente oficial específica vigente** (artículo de ayuda o documentación técnica).
 3. **Novedad oficial posterior** para hechos que actualiza expresamente.
 4. **Página comercial vigente** para condiciones generales; las condiciones de cada suscripción pueden diferir.
-5. **Catálogo oficial de la herramienta** para existencia, autor y versión puntual.
-6. **Comunidad/captura**: evidencia contextual, nunca prueba universal de una funcionalidad.
+5. **Anuncios del equipo en Reddit** con autor identificado y etiqueta de equipo: evidencia oficial complementaria de lanzamientos y cambios, siempre contrastada con el changelog; [inventario](reddit-y-comunidad.md).
+6. **Catálogo oficial de la herramienta** para existencia, autor y versión puntual.
+7. **Respuestas de personal identificado**: aclaraciones de alcance limitado; no convertir planes futuros en funciones publicadas.
+8. **Comunidad/captura**: evidencia contextual, nunca prueba universal de una funcionalidad.
 
 Si dos fuentes oficiales discrepan, registrar **ambas** y el alcance de la duda. No inventar resolución; una fecha más reciente orienta, pero no resuelve por sí sola un contrato o una función distinta.
 
@@ -40,7 +42,7 @@ Si dos fuentes oficiales discrepan, registrar **ambas** y el alcance de la duda.
 1. Enumerar categorías de [ayuda](https://vvd.crisp.help/en/) y el [catálogo](https://vvd.crisp.help/en/article/tools-ttd107/).
 2. Revisar el [changelog](https://vvd.world/whats-new) desde la revisión anterior.
 3. Comparar fuentes actualizadas y registrar la diferencia semántica, no solo la fecha.
-4. Abrir PR con cambios, referencias y alcance de la comprobación.
+4. Realizar commits descriptivos directamente sobre `main`, verificando el estado de la rama y las referencias antes y después de editar (política acordada con el mantenedor).
 5. No ejecutar scraping masivo ni reproducir manuales, imágenes o recursos protegidos: [condiciones](https://vvd.world/terms). El índice de enlaces y los resúmenes originales son la base del proyecto.
 
 ## Auditoría reproducible
