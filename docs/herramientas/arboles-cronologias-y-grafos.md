@@ -25,6 +25,13 @@ Refleja las conexiones creadas en las fichas por enlaces de texto y propiedades.
 Recomendación editorial: cronologías para la historia del escenario, grafo para relaciones del canon y árboles para estructuras jerárquicas. Mantener el contenido narrativo principal en fichas, para que los editores visuales lo referencien.
 
 
+## Alcance concreto de las novedades de septiembre
+
+La [revisión mensual del equipo](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) confirma que los árboles de relaciones pueden comenzar como **Family, Corporate, Military, Royal court o Blank**, y que ahora los **eventos de cronología admiten varias fichas asociadas**. El [changelog del 01/10](https://vvd.world/whats-new) añade dos procedimientos: arrastrar fichas desde la barra lateral hasta un evento abierto o buscarlas filtrando por tipo; también documenta mover eventos entre carriles.
+
+El [changelog del 27/09](https://vvd.world/whats-new) indica que se puede mantener pulsada la **barra espaciadora** para desplazar la vista (*pan*) de cronologías, mapas, árboles y grafos sin cambiar permanentemente de herramienta. No debe interpretarse como garantía de compatibilidad en todos los dispositivos táctiles.
+
+
 ## Fuentes directas
 
 - https://vvd.crisp.help/en/article/relation-trees-1v7xebv/
