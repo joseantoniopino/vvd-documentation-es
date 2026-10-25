@@ -31,6 +31,17 @@ La guía de agosto dice que publicar no hace aparecer automáticamente todas las
 Se documenta la conexión de dominio propio para planes compatibles en el apartado Site & Domain. El estado concreto depende de tu plan y de posibles modificaciones posteriores.
 
 
+## VVD 3: múltiples wikis, estructura y nuevos diseños
+
+Según el [anuncio de VVD 3 de agosto de 2026](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/), los planes **Pro y superiores** pueden crear **varias wikis para el mismo mundo**, cada una con diseño y visibilidad independientes. Este modelo reemplaza el antiguo sistema de **Group Publishing**. Distinguir una wiki específica de la publicación del mundo entero.
+
+La estructura de una wiki permite **agrupar páginas por tipo** o **definir agrupación manual**, alterando nombres, orden y documentos de las secciones. El anuncio también distingue **ocultar la navegación por tipo** de **despublicar documentos**: algunos recursos publicados continúan accesibles mediante enlaces o búsqueda aunque no se muestren en el menú. Por tanto, **no utilizar la ocultación de navegación como medida de privacidad**.
+
+En el [anuncio de agosto](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/), **Overworld** pasa a ser un diseño **heredado sin soporte para nuevos usuarios**; el [changelog del 27/09](https://vvd.world/whats-new) alude a mantener el aspecto de wikis Overworld antiguas. **No sugerir Overworld como plantilla de nueva creación**. En septiembre se anuncian las plantillas de ciencia ficción **Terminal** y **Shell**; el [changelog del 01/10](https://vvd.world/whats-new) explica que Shell permite navegar mediante comandos.
+
+El mismo anuncio confirma que en las wikis pueden publicarse documentos creados con herramientas (árboles, cronologías, Canvas, grafos, etc.), sujetos a las condiciones del plan y a sus ajustes de publicación.
+
+
 ## Fuentes directas
 
 - https://vvd.crisp.help/en/article/wiki-sharing-8dla6g/
