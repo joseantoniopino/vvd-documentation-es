@@ -18,6 +18,14 @@ estado: "Selección contrastada, no reproducción íntegra del changelog"
 | 06/09/2026 | Continuidad de edición ante interrupciones de conexión y ajustes de visibilidad/publicación. |
 | 2026, fechas anteriores | Overworld, pines agrupados, enlace entre mapas, variantes de árboles, cronologías e importantes mejoras del editor. Consultar el historial original para fechas y detalle exactos. |
 
+## Contraste adicional con comunicaciones del equipo en Reddit (25/10/2026)
+
+Los [anuncios de VVD 3](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/), [agosto](https://www.reddit.com/r/vvdworld/comments/1w7ib76/vvds_august_2026/) y [septiembre](https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) se han contrastado con el manual y el changelog. Como resultado se han ampliado capítulos de navegación, fichas, importación, accesibilidad, multimedia, árboles, cronologías, Quill y wikis. También se han añadido las guías de **Dictionary**, **incrustaciones multimedia** y **comentarios y Paths**.
+
+La [respuesta del equipo sobre importaciones](https://www.reddit.com/r/vvdworld/comments/1w7ib76/vvds_august_2026/) reconoce que el importador existía pero seguía necesitando mejoras: no debe traducirse eso en una garantía de compatibilidad con cualquier estructura externa. Queda registrado en el capítulo de [guardado e importación](../docs/fundamentos/guardado-importacion-y-aspecto.md).
+
+El post de septiembre es el **último resumen mensual localizado en esta revisión**, no una prueba de que no existan anuncios o mensajes posteriores. La revisión comprende anuncios y comentarios identificados, **no todos los hilos históricos del subreddit**.
+
 ## Política de actualización
 
 Antes de responder una duda dependiente de versión:
