@@ -4,8 +4,11 @@
 
 **Estado:** en desarrollo · **Auditoría inicial:** 25 de octubre de 2026 · **Idioma:** español.
 
+**Terminología:** se da prioridad al nombre real de cada control en la interfaz española (por ejemplo, **Tarjeta**), documentado por [capturas observadas](fuentes/evidencia-interfaz-es-2026-10-25.md). No se confunde esto con una traducción oficial aportada por VVD.
+
 ## Empieza aquí
 
+- [Glosario de la interfaz española](terminologia/glosario.md): etiquetas observadas de botones, herramientas y tipos de tarjeta.
 - [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas, incluidas las [guías nuevas incorporadas tras auditar Reddit](auditoria/cambios-2026.md).
 - [Catálogo de herramientas y cobertura](docs/herramientas/catalogo.md): incluye las herramientas con y sin guía pública.
 - [Inventario de fuentes](fuentes/inventario.md): enlaces oficiales y fechas de las páginas.
