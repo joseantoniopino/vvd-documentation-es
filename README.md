@@ -6,7 +6,7 @@
 
 ## Empieza aquí
 
-- [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas.
+- [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas, incluidas las [guías nuevas incorporadas tras auditar Reddit](auditoria/cambios-2026.md).
 - [Catálogo de herramientas y cobertura](docs/herramientas/catalogo.md): incluye las herramientas con y sin guía pública.
 - [Inventario de fuentes](fuentes/inventario.md): enlaces oficiales y fechas de las páginas.
 - [Anuncios del equipo de VVD en Reddit](fuentes/reddit-y-comunidad.md): revisiones mensuales, anuncios y nivel de confianza de las respuestas comunitarias.
