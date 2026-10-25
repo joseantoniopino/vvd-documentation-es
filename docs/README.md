@@ -4,7 +4,7 @@ Esta guía organiza vvd por **dominio funcional**, no por la estructura interna 
 
 | Área | Documentos |
 |---|---|
-| Fundamentos | [Navegación](fundamentos/navegacion.md) · [Tarjetas, tipos y propiedades](fundamentos/fichas-tipos-y-propiedades.md) · [Guardado, importación y apariencia](fundamentos/guardado-importacion-y-aspecto.md) · [Planes, acceso y disponibilidad](fundamentos/planes-y-acceso.md) · [Comentarios y recorridos Paths](fundamentos/comentarios-y-paths.md) |
+| Fundamentos | [Navegación](fundamentos/navegacion.md) · [Tarjetas, tipos y propiedades](fundamentos/tarjetas-tipos-y-propiedades.md) · [Guardado, importación y apariencia](fundamentos/guardado-importacion-y-aspecto.md) · [Planes, acceso y disponibilidad](fundamentos/planes-y-acceso.md) · [Comentarios y recorridos Paths](fundamentos/comentarios-y-paths.md) |
 | Herramientas | [Catálogo completo y cobertura](herramientas/catalogo.md) · [Maps clásico](herramientas/maps-classic.md) · [Map Maker](herramientas/map-maker.md) · [Canvas y multimedia](herramientas/medios-y-canvas.md) · [Árbol de relaciones, Línea de tiempo y Grafo del Mundo](herramientas/arboles-cronologias-y-grafos.md) · [Quill](herramientas/quill.md) · [Diccionario](herramientas/diccionario.md) · [Música y vídeo incrustados](herramientas/incrustaciones-multimedia.md) |
 | Publicación | [Wikis, permisos y colaboración](publicacion/wikis-y-permisos.md) |
 | Desarrollo | [SDK y Workshop](desarrollo/sdk-y-workshop.md) · [API, MCP y CLI](desarrollo/api-mcp-y-cli.md) |
@@ -14,4 +14,4 @@ Esta guía organiza vvd por **dominio funcional**, no por la estructura interna 
 
 ## Qué falta
 
-La [lista oficial de herramientas](https://vvd.crisp.help/en/article/tools-ttd107/) contiene funcionalidades sin manual público individual. En esos casos se documenta su **existencia** y el vacío de información, no se inventan controles. La meta es añadir, con la misma exigencia de calidad, fichas individuales para **todas** las herramientas a medida que existan pruebas suficientes.
+La [lista oficial de herramientas](https://vvd.crisp.help/en/article/tools-ttd107/) contiene funcionalidades sin manual público individual. En esos casos se documenta su **existencia** y el vacío de información, no se inventan controles. La meta es añadir, con la misma exigencia de calidad, tarjetas individuales para **todas** las herramientas a medida que existan pruebas suficientes.
