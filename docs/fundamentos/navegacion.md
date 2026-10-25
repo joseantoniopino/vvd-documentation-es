@@ -8,15 +8,15 @@ estado: "Verificado parcialmente; revisar cambios posteriores"
 
 ## Jerarquía de trabajo
 
-VVD organiza el contenido dentro de **mundos**: un mundo funciona como espacio de proyecto y puede representar un universo completo, no solamente un planeta. Dentro de él conviven **fichas** (Cards) y otros **documentos** elaborados mediante herramientas: mapas, cronologías, árboles, lienzos y documentos personalizados.
+VVD organiza el contenido dentro de **mundos**: un mundo funciona como espacio de proyecto y puede representar un universo completo, no solamente un planeta. Dentro de él conviven **tarjetas** (Cards, a veces llamadas fichas en textos explicativos) y otros **documentos** elaborados mediante herramientas: mapas, cronologías, árboles, lienzos y documentos personalizados.
 
-La **ficha** es la unidad preferente para información persistente: personajes, lugares, facciones, escenas, objetos o acontecimientos. El usuario puede enlazar fichas entre sí y desde ciertos marcadores del mapa. El **documento** no es sinónimo de ficha: un mapa es también un documento, pero de otro tipo.
+La **tarjeta** es la unidad preferente para información persistente: personajes, lugares, facciones, escenas, objetos o acontecimientos. El usuario puede enlazar fichas entre sí y desde ciertos marcadores del mapa. El **documento** no es sinónimo de tarjeta: un mapa es también un documento, pero de otro tipo.
 
 ## Entorno de trabajo
 
 - El icono de VVD abre la navegación general y los mundos disponibles.
 - El nombre del mundo y su menú cercano abren sus opciones: información, tipos, biblioteca multimedia, colaboración, aspecto, importación/exportación y archivo.
-- La barra lateral del editor reúne fichas, carpetas y otros documentos.
+- La barra lateral del editor reúne tarjetas, carpetas y otros documentos.
 - En la sección de herramientas se pueden explorar, instalar y quitar herramientas. Quitar una herramienta del mundo **no equivale** a borrar los documentos ya creados con ella.
 - Un panel puede presentar varios documentos simultáneamente; algunas rutas y etiquetas varían con la versión.
 
@@ -25,12 +25,14 @@ La **ficha** es la unidad preferente para información persistente: personajes, 
 | Nombre | Función |
 |---|---|
 | Mundo | Espacio que agrupa contenido y colaboradores |
-| Ficha / Card | Unidad de conocimiento enlazable |
+| Tarjeta / Card | Unidad de conocimiento enlazable (a menudo llamada «ficha» en contextos de rol) |
 | Documento | Objeto editable: ficha, mapa, timeline, etc. |
 | Herramienta | Editor o componente que crea un tipo de documento |
 | Bloque | Contenido incrustado dentro de otro documento |
 | Wiki | Vista publicada y navegable de material seleccionado |
 | Quill | Entorno especializado en escritura de historias |
+
+Las capturas del catálogo muestran las pestañas **«Explorar»**, **«Biblioteca»** y **«Workshop»**, además de filtros como **«TTRPG»**, **«Desarrollo de juegos»**, **«Escritura»** y **«Guionismo»**. [Evidencia y más etiquetas](../../terminologia/herramientas-observadas.md). Estas denominaciones no se han obtenido de una exportación oficial de localización.
 
 ## Precaución de versiones
 
