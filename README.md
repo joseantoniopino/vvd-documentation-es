@@ -18,7 +18,7 @@
 
 ## Qué se documenta
 
-Mundos, fichas, tipos y propiedades, grafo, mapas, Map Maker, Canvas, medios, árboles, cronologías, Quill, publicación, colaboración, exportación, accesibilidad, herramientas de terceros y plataforma de desarrollo (SDK, CLI, API y MCP). **La profundidad varía**: las funciones con poca documentación oficial se presentan como pendientes, no se completan mediante suposiciones.
+Mundos, tarjetas, tipos y propiedades, grafo, mapas, Map Maker, Canvas, medios, árboles, cronologías, Quill, publicación, colaboración, exportación, accesibilidad, herramientas de terceros y plataforma de desarrollo (SDK, CLI, API y MCP). **La profundidad varía**: las funciones con poca documentación oficial se presentan como pendientes, no se completan mediante suposiciones.
 
 ## Cómo interpretar las páginas
 
