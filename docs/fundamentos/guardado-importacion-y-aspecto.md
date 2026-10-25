@@ -27,6 +27,17 @@ La cuenta permite gestionar nombre, correo, acceso, idioma y pago. Las guías de
 Las páginas oficiales distinguen propiedad de tu contenido y autorización para usar material de terceros. Una imagen disponible para worldbuilding dentro de VVD no implica permiso para redistribución exterior.
 
 
+## Aclaración del equipo sobre importaciones y continuidad
+
+En los [comentarios de la revisión de agosto de 2026](https://www.reddit.com/r/vvdworld/comments/1w7ib76/vvds_august_2026/), un miembro identificado como personal de VVD indicó que el importador estaba **disponible** desde la flecha desplegable situada junto al nombre del mundo, pero que su funcionamiento todavía necesitaba mejoras. Es una **respuesta oficial contextual**, no garantía de importación perfecta de relaciones, fichas o calendarios. Conservar siempre una copia previa y revisar qué estructuras se crean.
+
+En el [anuncio de VVD 3](https://www.reddit.com/r/vvdworld/comments/1vt4h41/vvd3_announcement/) se señalaba que las aplicaciones **no disponían de modo offline completo**. Las mejoras posteriores de septiembre relativas a edición durante interrupciones temporales deben entenderse por separado: **resiliencia ante cortes de red no equivale a funcionamiento offline integral**. [Historial de cambios](https://vvd.world/whats-new).
+
+## Preferencias visuales y accesibilidad anunciadas en septiembre
+
+El [equipo]( https://www.reddit.com/r/vvdworld/comments/1x3ar19/vvds_september_2026/) sitúa en la configuración de cuenta las opciones de **tamaño del texto**, **fuente OpenDyslexic** y un **modo de rendimiento** que reduce efectos de desenfoque y transparencia. El tamaño de la barra de pestañas se configura dentro de cada mundo. El [changelog del 14/09](https://vvd.world/whats-new) enumera **Default, Medium, Large y Extra large** para el texto de interfaz y señala que esa preferencia se guarda en el dispositivo. No asumir que el modo de rendimiento modifica el fondo de Maps Classic sin probarlo.
+
+
 ## Fuentes directas
 
 - https://vvd.crisp.help/en/article/saving-1ceh8lh/
