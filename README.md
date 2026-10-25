@@ -9,6 +9,7 @@
 ## Empieza aquí
 
 - [Glosario de la interfaz española](terminologia/glosario.md): etiquetas observadas de botones, herramientas y tipos de tarjeta.
+- [Auditoría de normalización terminológica](auditoria/normalizacion-terminologica-2026-10-25.md): diferencias corregidas en el corpus y límites de verificación.
 - [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas, incluidas las [guías nuevas incorporadas tras auditar Reddit](auditoria/cambios-2026.md).
 - [Catálogo de herramientas y cobertura](docs/herramientas/catalogo.md): incluye las herramientas con y sin guía pública.
 - [Inventario de fuentes](fuentes/inventario.md): enlaces oficiales y fechas de las páginas.
