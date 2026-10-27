@@ -16,6 +16,9 @@ features:
   - title: Guías por herramienta
     details: Mapas, Tarjetas, Canvas, Quill, Línea de tiempo y otras herramientas de VVD, con cobertura documental declarada.
     link: /docs/herramientas/catalogo
+  - title: Propiedades y plantillas reutilizables
+    details: Paso a paso para crear propiedades, configurar opciones de selección y reutilizarlas en tarjetas del mismo tipo.
+    link: /docs/guias/configurar-propiedades-y-opciones
   - title: Términos reales de la interfaz
     details: Glosario que distingue las etiquetas observadas, los nombres originales y las traducciones todavía sin comprobar.
     link: /terminologia/glosario
