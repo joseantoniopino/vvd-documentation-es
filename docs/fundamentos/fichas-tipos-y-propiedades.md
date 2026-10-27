@@ -1,6 +1,6 @@
 ---
 title: "Tarjetas, tipos, plantillas, propiedades y conexiones"
-fecha_revision: 2026-10-25
+fecha_revision: 2026-10-27
 estado: "Verificado parcialmente; revisar cambios posteriores"
 ---
 
@@ -26,7 +26,31 @@ En el selector observado existe la categoría **«Ubicación»** y, dentro de el
 
 ## Propiedades
 
-Dos familias descritas oficialmente: campos textuales y referencias a otras tarjetas. Pueden definirse individualmente o en un tipo para reutilización. Ejemplos prácticos: `Nivel de peligro`, `Habitantes`, `Secreto`, `Facción`, `Salas conectadas`. Confirmar los tipos de dato disponibles en tu herramienta actual antes de crear un esquema complejo.
+Las propiedades permiten expresar datos resumidos de una tarjeta y, cuando contienen referencias, relacionarla con otras entidades. La [documentación oficial de «Properties»](https://vvd.crisp.help/en/article/properties-umr3at/) confirma dos ámbitos de definición:
+
+- **Por tarjeta:** propiedades particulares de una entidad concreta.
+- **Por tipo/subtipo:** propiedades reutilizables que se preparan desde **Tipos → [tipo] → Plantilla de tarjeta**.
+
+### Tipos de propiedad vistos en la interfaz española (27/10/2026)
+
+En una sesión real se observaron **Texto**, **Número**, **Seleccionar**, **Fecha**, referencias a **Personaje**, **Evento**, **Facción**, **Objeto**, **Ubicación** y otras categorías/subtipos, además de la acción **Calcular**. Esta lista documenta **controles vistos**, no garantiza que todos los planes, mundos o versiones tengan el mismo inventario.
+
+### Cómo crear opciones de «Seleccionar» desde una plantilla
+
+1. Abre **Tipos**, escoge el tipo o subtipo y entra en **Plantilla de tarjeta → Editar** (o **Crear una nueva plantilla** si aún no existe).
+2. Pulsa **Agregar propiedad**, dale un nombre y configura el tipo **Seleccionar**.
+3. **Dentro del editor de la plantilla**, abre **el campo de valor** de esa propiedad. En el desplegable **«Buscar una opción...»**, escribe un nombre para crear una opción; repite las veces necesarias.
+4. Pulsa **Hecho**. Se comprobó que las opciones introducidas en la plantilla de un subtipo aparecían en una tarjeta **existente del mismo subtipo**.
+
+**Advertencia importante:** pulsar **el nombre** de la propiedad abre el menú de nombre/tipo; **no** es un editor de la lista de opciones. Para definir los valores, hay que abrir el **selector de valor dentro de la plantilla**. No hace falta definir una por una las mismas opciones desde cada tarjeta.
+
+Consulta la **[guía detallada «Crear propiedades y configurar opciones de selección»](../guias/configurar-propiedades-y-opciones.md)**, que recoge el procedimiento, las etiquetas de interfaz, la distinción entre plantilla y tarjeta y los límites de la comprobación.
+
+### Propiedades y texto narrativo no son lo mismo
+
+**Recomendación editorial:** usa la propiedad para la **clasificación o dato breve** (por ejemplo, `Actitud = Desconfiada`), y un **bloque de texto opcional** solamente para añadir causas, matices o consecuencias que no se deduzcan de ese dato. Si necesitas una entidad independiente (PNJ, evento, enclave), prioriza una **referencia a tarjeta**.
+
+La [guía oficial de propiedades](https://vvd.crisp.help/en/article/properties-umr3at/) continúa explicando fundamentalmente texto y referencias; las opciones **Seleccionar** y su creación dentro de plantillas se han documentado **por observación directa de la interfaz** el 27/10/2026, no como procedimiento oficial.
 
 ## Dos formas de vincular tarjetas
 
