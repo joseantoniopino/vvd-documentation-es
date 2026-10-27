@@ -11,6 +11,7 @@
 - [Glosario de la interfaz española](terminologia/glosario.md): etiquetas observadas de botones, herramientas y tipos de tarjeta.
 - [Auditoría de normalización terminológica](auditoria/normalizacion-terminologica-2026-10-25.md): diferencias corregidas en el corpus y límites de verificación.
 - [Índice de la documentación](docs/README.md): navegación por funciones, herramientas y tareas, incluidas las [guías nuevas incorporadas tras auditar Reddit](auditoria/cambios-2026.md).
+- [Crear propiedades y opciones de selección](docs/guias/configurar-propiedades-y-opciones.md): pasos contrastados para configurar opciones reutilizables desde las plantillas de tarjeta.
 - [Catálogo de herramientas y cobertura](docs/herramientas/catalogo.md): incluye las herramientas con y sin guía pública.
 - [Inventario de fuentes](fuentes/inventario.md): enlaces oficiales y fechas de las páginas.
 - [Anuncios del equipo de VVD en Reddit](fuentes/reddit-y-comunidad.md): revisiones mensuales, anuncios y nivel de confianza de las respuestas comunitarias.
