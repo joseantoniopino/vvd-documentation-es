@@ -32,6 +32,7 @@ export default defineConfig({
           { text: 'Índice de documentación', link: '/docs/README' },
           { text: 'Navegación y conceptos', link: '/docs/fundamentos/navegacion' },
           { text: 'Tarjetas, tipos y propiedades', link: '/docs/fundamentos/fichas-tipos-y-propiedades' },
+          { text: 'Configurar propiedades y opciones', link: '/docs/guias/configurar-propiedades-y-opciones' },
           { text: 'Comentarios y Paths', link: '/docs/fundamentos/comentarios-y-paths' },
           { text: 'Guardado e importación', link: '/docs/fundamentos/guardado-importacion-y-aspecto' },
           { text: 'Planes y acceso', link: '/docs/fundamentos/planes-y-acceso' }
