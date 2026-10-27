@@ -1,6 +1,6 @@
 # Glosario terminológico de la interfaz española de VVD
 
-> **Evidencia:** capturas reales de la aplicación en español proporcionadas el 25/10/2026. No procede de los archivos de localización oficiales y puede cambiar en otra versión, mundo o plan.
+> **Evidencia:** capturas reales de la aplicación en español proporcionadas el 25 y el 27/10/2026. No procede de los archivos de localización oficiales y puede cambiar en otra versión, mundo o plan.
 
 | Concepto | Etiqueta observada | Inglés confirmado / probable | Contexto |
 |---|---|---|---|
@@ -47,6 +47,15 @@
 | `categorias` | **Categorías** | — | Rótulo lateral del selector. |
 | `alias` | **Alias** | Alias | Campo de Tarjeta. |
 | `agregar_propiedad` | **Agregar propiedad** | — | Acción del editor de Tarjeta. |
+| `plantilla_de_tarjeta` | **Plantilla de tarjeta** | — | Pestaña del administrador de tipos para configurar la plantilla de un tipo o subtipo. |
+| `configuracion_de_tarjeta` | **Configuración de tarjeta** | — | Pestaña del administrador de tipos; distinta del editor del contenido de la plantilla. |
+| `crear_nueva_plantilla` | **Crear una nueva plantilla** | — | Acción para asignar una plantilla nueva a un tipo sin plantilla. |
+| `editar_plantilla` | **Editar** | — | Acción visible junto a una plantilla ya asignada. |
+| `propiedad_tipo_seleccionar` | **Seleccionar** | Select (probable) | **Tipo de propiedad** que permite opciones cerradas; no confundir con la acción «Seleccionar» de otros menús. |
+| `buscar_una_opcion` | **Buscar una opción...** | — | Campo del desplegable de valor de una propiedad «Seleccionar»; permite introducir una opción nueva. |
+| `aun_no_hay_opciones` | **Aún no hay opciones. Escribe un nombre para crear la primera** | — | Ayuda observada en una propiedad «Seleccionar» sin opciones. |
+| `hecho` | **Hecho** | — | Acción para finalizar la edición de una plantilla de tarjeta. |
+| `agregar_subtipo` | **Agregar subtipo** | — | Ayuda del botón + junto a un tipo; no equivale a «Agregar propiedad». |
 | `plantillas_guiadas` | **Plantillas Guiadas** | — | Apartado del editor de Tarjeta. |
 | `libre` | **Libre** | — | Opción visible en Plantillas Guiadas. |
 | `navegar` | **Navegar** | — | Ayuda inferior del selector de tipos. |
@@ -59,4 +68,4 @@
 
 Hay etiquetas repetidas o heterogéneas (p. ej., «Mapa» como herramienta y botón de inserción; «Canvas» y «Lienzo»). No inferir equivalencia funcional solo por la proximidad lingüística.
 
-Consulta [tipos y categorías observados](tipos-observados.md) y [herramientas observadas](herramientas-observadas.md).
+Consulta [tipos y categorías observados](tipos-observados.md), [herramientas observadas](herramientas-observadas.md) y la [guía de propiedades de selección](../docs/guias/configurar-propiedades-y-opciones.md).
